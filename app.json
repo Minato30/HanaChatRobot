@@ -1,7 +1,7 @@
 {
     "name": "ʜᴀɴᴀ ᴄʜᴀᴛʙᴏᴛ",
     "description": "ʜᴇʟʟᴏ, ɪ ᴀᴍ ʜᴀɴᴀ ᴀɴ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴛ ᴄʜᴀᴛʙᴏᴛ. ɪғ ʏᴏᴜʙᴀʀᴇ ғᴇᴇʟɪɴɢ ʟᴏɴᴇʟʏ, ʏᴏᴜ ᴄᴀɴ ᴀʟᴡᴀʏs ᴄᴏᴍᴇ ᴛᴏ ᴍᴇ ᴀɴᴅ ᴄʜᴀᴛ ᴡɪᴛʜ ᴍᴇ!",
-    "logo": "https://te.legra.ph/file/b9eab8788d5c8bcb85f9f.jpg",
+    "logo": "https://telegra.ru.com/p/7a7bde80x2ae067a179ed1dc6f466ba0fa49413ae4295969a",
     "repository": "https://github.com/Minato30/HanaChatRobot",
     "env": {
         "BOT_TOKEN": {
