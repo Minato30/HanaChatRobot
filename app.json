@@ -2,7 +2,7 @@
     "name": "ʜᴀɴᴀ ᴄʜᴀᴛʙᴏᴛ",
     "description": "ʜᴇʟʟᴏ, ɪ ᴀᴍ ʜᴀɴᴀ ᴀɴ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴛ ᴄʜᴀᴛʙᴏᴛ. ɪғ ʏᴏᴜʙᴀʀᴇ ғᴇᴇʟɪɴɢ ʟᴏɴᴇʟʏ, ʏᴏᴜ ᴄᴀɴ ᴀʟᴡᴀʏs ᴄᴏᴍᴇ ᴛᴏ ᴍᴇ ᴀɴᴅ ᴄʜᴀᴛ ᴡɪᴛʜ ᴍᴇ!",
     "logo": "https://te.legra.ph/file/b9eab8788d5c8bcb85f9f.jpg",
-    "repository": "https://github.com/Sumit9969/HanaChatRobot",
+    "repository": "https://github.com/Minato30/HanaChatRobot",
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
